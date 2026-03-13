@@ -1,4 +1,4 @@
-![Logo](images/logo.png)
+![Logo](images/QuantumLogo.png)
 # Quantum
 The newest PID-controller with Quantium-chromodynamic algorithm, to making step at one quark.
 Used a Gell-Mann, Runge-Kutta 4, Struct Constants SU(3), Higgs Field/Mechanism, algorithms to work.
