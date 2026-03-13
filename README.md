@@ -1,9 +1,18 @@
 ![Logo](images/QuantumLogo.png)
 # Quantum
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-3.5-blueviolet" alt=".NET 3.5"/>
+  <img src="https://img.shields.io/badge/step-1_quark-blue" alt="Step"/>
+  <img src="https://img.shields.io/badge/time-Planck-black" alt="Time"/>
+  <img src="https://img.shields.io/badge/steps%2Fsec-1.85e43-orange" alt="Steps/sec"/>
+  <img src="https://img.shields.io/badge/cool-using-9cf" alt="Cool using"/>
+</p>
+
+
+
 The newest PID-controller with Quantium-chromodynamic algorithm, to making step at one quark.
 Used a Gell-Mann, Runge-Kutta 4, Struct Constants SU(3), Higgs Field/Mechanism, algorithms to work.
 Maked for all peoples and corporations. Cool using
-
 ## How it works?
 Is a very hard algorithm with highest physics and mathematic formulas, but if simple all is works on theese steps:
   1. INPUT → Your error signal becomes a COLOR VECTOR (Red, Green, Blue = RGB quark state)
